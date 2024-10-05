@@ -1,0 +1,7 @@
+Sneak Attack:
+If you have combat advantage, 
+you can deal extra 2d6 damage.
+
+Piercing Strike:
+Attack roll: d20 + Dexterity modifier + Proficiency bonus
+Damage: 1[W] + Dexterity modifier.

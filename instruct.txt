@@ -1,0 +1,4 @@
+   Welcome to a Character Creator app, inspired by Dungeons & Dragons 4th Edition!
+   Here you can create you dream character, albeit with many limitations, unlike in real D&D games.
+   You can choose name for your character, their race, class and weapon (dependent on class). Furthermore, you can generate ability scores with classic method used in D&D - 4d6d1, "Roll 4d6, drop lowest".
+   Please refer to window above if you want to load in an existing character or save the one you created. Please note, that there cannot be two characters sharing a name. Your class abilities, hit points and armor class are displayed to the left.

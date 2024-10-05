@@ -1,0 +1,6 @@
+Divine Challenge:
+You mark the target.
+
+Holy Strike:
+Attack roll: d20 + Strength modifier + Proficiency bonus
+Damage: 1[W] + Charisma modifier + Wisdom modifier.

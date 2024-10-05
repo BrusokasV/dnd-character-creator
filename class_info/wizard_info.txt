@@ -1,0 +1,5 @@
+Mage Hand:
+You create a spectral hand which you can manipulate.
+
+Magic Missile:
+You deal 2 + Inteligence modifier damage to target.

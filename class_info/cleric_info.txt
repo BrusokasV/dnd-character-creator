@@ -1,0 +1,7 @@
+Healing Word:
+The target can spend a healing surge
+and regain 1d6 + Wisdom modifier hp.
+
+Lance of Faith:
+Attack roll: d20 + Wisdom modifier
+Damage: 1d8 + Wisdom modifier.
